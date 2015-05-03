@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/janebabra/github/FlappyBirdOpenSourceCode/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b01b733295b1de3a5e53c7dcfff74cf156bd9972">
+        <dex dex="/home/janebabra/github/FlappyBirdOpenSourceCode/app/build/intermediates/pre-dexed/debug/unity-classes-2851ff6600efb1a233885841529c26a374c819a1.jar" />
+    </item>
+
+</items>
